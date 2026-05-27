@@ -17,3 +17,4 @@ En el presente proyecto se analizará un dataset compuesto por 334 pacientes con
 - **John Anderson Sotelo Rueda**
 
 ## Url video:
+[Url video del proyecto](https://www.youtube.com/watch?v=_XWw7ydWti4)
