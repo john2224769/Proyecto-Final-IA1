@@ -1,5 +1,7 @@
 # Predicción del Tiempo de Supervivencia en Pacientes con Cáncer de Mama
 
+![Banner del Proyecto](Banner.png)
+
 # Objetivo:
 
 Predecir la variable Survival_Time, calculada como la diferencia en días entre Date_of_Last_Visit y Date_of_Surgery.
